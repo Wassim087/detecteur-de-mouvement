@@ -13,7 +13,7 @@ Le système surveille une pièce. Dès qu'il détecte un mouvement ou que l'aima
 
 ## Livrables
 
-- **Livrable 1 — Choix de projet et plan de projet :** [detecteur-de-mouvement.md](detecteur-de-mouvement.md) (version PDF : [detecteur-de-mouvement.pdf](detecteur-de-mouvement.pdf))
+- **Livrable 1 — Choix de projet et plan de projet :** [detecteur-de-mouvement.pdf](detecteur-de-mouvement.pdf)
 
 ## Utilisation de l'IA
 
